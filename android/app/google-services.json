@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366957709927",
+    "project_id": "blockbuster-hunt-e3910",
+    "storage_bucket": "blockbuster-hunt-e3910.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366957709927:android:ff3f24b9935463308e62c2",
+        "android_client_info": {
+          "package_name": "com.example.blockbuster_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UmzZO0_mFXgUJuykOdsPtgD5gI3SWh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
